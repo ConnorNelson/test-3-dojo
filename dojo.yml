@@ -1,0 +1,6 @@
+id: test-3-dojo
+modules:
+  - id: test
+    challenges:
+      - id: challenge1
+      
